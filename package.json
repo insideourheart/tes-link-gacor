@@ -1,0 +1,19 @@
+{
+  "name": "tes-link-gacor",
+  "version": "1.0.0",
+  "description": "disini deskripsi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/insideourheart/tes-link-gacor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/insideourheart/tes-link-gacor/issues"
+  },
+  "homepage": "https://github.com/insideourheart/tes-link-gacor#readme"
+}
